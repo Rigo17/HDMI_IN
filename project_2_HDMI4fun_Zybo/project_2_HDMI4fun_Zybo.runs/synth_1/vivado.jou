@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Nov  3 21:15:14 2017
+# Process ID: 5828
+# Current directory: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_2_HDMI4fun_Zybo/project_2_HDMI4fun_Zybo.runs/synth_1
+# Command line: vivado.exe -log TOP_MODULE.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TOP_MODULE.tcl
+# Log file: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_2_HDMI4fun_Zybo/project_2_HDMI4fun_Zybo.runs/synth_1/TOP_MODULE.vds
+# Journal file: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_2_HDMI4fun_Zybo/project_2_HDMI4fun_Zybo.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TOP_MODULE.tcl -notrace

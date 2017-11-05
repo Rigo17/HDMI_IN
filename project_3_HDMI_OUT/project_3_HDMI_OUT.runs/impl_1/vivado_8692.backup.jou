@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Nov  3 22:23:03 2017
+# Process ID: 8692
+# Current directory: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_3_HDMI_OUT/project_3_HDMI_OUT.runs/impl_1
+# Command line: vivado.exe -log T_MODULE.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source T_MODULE.tcl -notrace
+# Log file: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_3_HDMI_OUT/project_3_HDMI_OUT.runs/impl_1/T_MODULE.vdi
+# Journal file: D:/Academico/IPD432 Super Digitales/Proyectos Vivado 2017.3/project_3_HDMI_OUT/project_3_HDMI_OUT.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source T_MODULE.tcl -notrace
