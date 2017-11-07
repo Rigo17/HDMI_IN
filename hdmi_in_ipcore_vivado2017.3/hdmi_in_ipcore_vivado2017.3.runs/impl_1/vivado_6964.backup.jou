@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Tue Nov  7 01:07:02 2017
+# Process ID: 6964
+# Current directory: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3/hdmi_in_ipcore_vivado2017.3.runs/impl_1
+# Command line: vivado.exe -log TOP_MODULE.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TOP_MODULE.tcl -notrace
+# Log file: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3/hdmi_in_ipcore_vivado2017.3.runs/impl_1/TOP_MODULE.vdi
+# Journal file: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3/hdmi_in_ipcore_vivado2017.3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source TOP_MODULE.tcl -notrace

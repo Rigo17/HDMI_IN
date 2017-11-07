@@ -1,0 +1,432 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sun Nov  5 16:46:05 2017
+# Process ID: 3308
+# Current directory: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2876 C:\Users\rodrigo\Dropbox\Academico\IPD432 Super Digitales\Proyectos de prueba\hdmi_in_ipcore_vivado2017.3\hdmi_in_ipcore_vivado2017.3.xpr
+# Log file: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3/vivado.log
+# Journal file: C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3/hdmi_in_ipcore_vivado2017.3.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/Proyectos de prueba/hdmi_in_ipcore_vivado2017.3'
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/rodrigo/Dropbox/Academico/IPD432 Super Digitales/vivado-library-master'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.3/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:09 . Memory (MB): peak = 804.242 ; gain = 36.656
+update_compile_order -fileset sources_1
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+the value of str is 0.000 
+
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Nov  5 17:19:57 2017...
