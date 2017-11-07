@@ -1,1 +1,0 @@
---relax --debug typical --mt auto -L xil_defaultlib -L secureip -L xpm --snapshot dvi2rgb_0 xil_defaultlib.dvi2rgb_0 -log elaborate.log
